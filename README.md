@@ -1,4 +1,4 @@
-#🧬 Genetic Disease Risk Prediction
+# 🧬 Genetic Disease Risk Prediction
 Developed a Machine Learning-powered Streamlit web application that predicts the risk of genetic diseases in offspring based on family history and genetic traits.
 
 🔍 Key Features:
